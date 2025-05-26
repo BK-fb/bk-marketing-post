@@ -1,4 +1,0 @@
-project_id = "umkjtsnfbtbfrrchsybd"
-
-[functions.facebook-poster]
-verify_jwt = false
